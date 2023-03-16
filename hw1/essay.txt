@@ -1,0 +1,26 @@
+AI 100 Reflection - Issue with Job Loss and Inequality
+
+In “The One Hundred Year Study on Artificial Intelligence (AI100) 2021 Study Panel Report” under the Standing Question 11 - How has AI affected socioeconomic relations, 
+the report has made a claim that Artificial Intelligence has a small effect on the job market, as well as playing a small role in increasing inequality of the society. 
+Although the report acknowledges in the conclusion that in the future AI could have a negative impact, the report failed to acknowledge and underestimated AI’s effect on the job 
+loss, as well as its effect on increasing inequality. The following essay will show that AI has a large contribution to job loss and its potential, as well as increasing inequality 
+across the world.
+
+First of all, the introduction of AI will inevitably lead to job loss in society. As can be seen from an article written by Morgan Frank from MIT, “47% of current US employment 
+is at high risk to computerization”. The author did point out that using a different methodology reduces 47% to 9%. Similar studies done in European countries have shown that 
+“Automation will affect 35% of employment in Finland, 59% of employment in Germany and 45 to 60% of employment across Europe.”[1] The stats are not actual job loss caused by AI, rather 
+all possible jobs to be replaced by AI in the near future. AI has already replaced jobs that can be performed by humans with lots of simple tasks by machines. With the development of 
+AI further developing, more jobs will be destroyed, such as the mention of autonomous vehicles in AI 100, which will potentially replace thousands of driver jobs in society. Another 
+astonishing evidence can be seen from an article written by Will Rinehart, which used lots of researcher’s prediction and studies said “The United States could lose between 16 million 
+and 54 million jobs between 2016 and 2030.”[2] The statistic here shows that job loss caused by AI should definitely not be minimized, like what the AI100 report was doing. Rather, with 
+the current job market, in the short term, lots of jobs will be replaced by artificial intelligence. The statistic shows that there is still yet a lot to do by the government and 
+policymakers to ensure a smooth transition between the current job-market status and future integration of AI into the job market.
+
+Another issue that AI100 minimized is the issue of inequality. AI100’s conclusion was that AI did not do much in the resulting inequality. However, according to an article written by 
+David Rotman from MIT, it cited some statistics that between 1980 and 2016, around 50%-70% of wage inequality was caused by automation.[3] The current use of AI and policy generally favors 
+those who have access to it. One example of such is taxes. There is no tax on automation but there is a lot of tax on human labor. Thus, it helps companies that use a lot of automation. 
+By replacing human labor with AI, the company that does so will be benefited, but it increases their income and wealth only, causing income inequality. AI might be helpful, but the 
+inequality it caused has not been addressed.
+
+In conclusion, the issue of job loss and inequality caused by AI is present, and it is more than what AI100 has predicted. The government and policymakers will need to do more 
+in order to prepare for the integration of AI into society, to avoid the issue of job loss and inequality.

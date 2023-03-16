@@ -1,2 +1,2 @@
-# CS540
-Project I completed for CS540 - Introduction for Artificial Intelligence.
+# Artificial Intelligence Project
+Project I completed for Introduction for Artificial Intelligence at UW Madison
